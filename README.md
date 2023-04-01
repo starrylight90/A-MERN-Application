@@ -7,7 +7,7 @@ Build a MERN application using Next.js by using Next.js to fetch data from an ex
 2. Pass props from the API call to the Next.js function component.<br>
 3. Use Next.js props to create the state in the React Component.<br>
 <br>
-<b>Workflow</b>
+<b>Workflow </b><br>
 1. Analyze the existing MongoDB, Express, Next.js and Node.js Application.<br>
 2. Create an asynchronous function in Next.js to access API data.<br>
 3. Pass props from the API call to the Next.js function component.<br>
